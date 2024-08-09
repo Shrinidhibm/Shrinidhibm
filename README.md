@@ -1,12 +1,10 @@
 <h1 align="center">Shrinidhi B M</h1>
-<h3 align="center">Tech Enthusiast || Web Developer || RPA Developer || Service Now Developer || Athlete || Immediate Joiner </h3>
+<h3 align="center">Tech Enthusiast || Web Developer || RPA Developer || Java Developer || .NET Developer </h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shrinidhibm&label=Profile%20views&color=0e75b6&style=flat" alt="Shrinidhibm" /> </p>
- 
-[![Portfolio](https://img.shields.io/badge/PersonalWebsite-blue)](https://sujanpsportfolio.netlify.app/) <br> <br> 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SujanPS-blue)](https://www.linkedin.com/in/sujan-p-s-4a0415225/)
-[![Twitter](https://img.shields.io/badge/Twitter-Sujan_____-blue)](https://twitter.com/Sujan_____)
-[![Email](https://img.shields.io/badge/Email-sujanmayra6362%40gmail.com-blue)](mailto:sujanmayra6362@gmail.com)
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SujanPS-blue)](https://www.linkedin.com/in/shrinidhi-bm/)
+[![Email](https://img.shields.io/badge/Email-sujanmayra6362%40gmail.com-blue)](mailto:2002shrinidhirao@gmail.com)
  
 ## Skills
  
@@ -71,6 +69,6 @@ Mar 23 - May 23
  
 ## GitHub Works
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujan5757&show_icons=true&locale=en&layout=compact" alt="sujan5757" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrinidhibm&show_icons=true&locale=en&layout=compact" alt="Shrinidhibm" /></p>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujan5757&" alt="sujan5757" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shrinidhibm&" alt="Shrinidhibm" /></p>
