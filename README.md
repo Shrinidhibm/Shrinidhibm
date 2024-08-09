@@ -59,13 +59,6 @@ Mar 23 - May 23
 - Evaluated by CodeChef, HireMee, AMCAT, 10seconds, and Qspiders during the internship program.
 - Engaged in soft skill training conducted by Aerodynamiks Academy for well-rounded professional development.
  
-## [Projects :](https://projectstorage.netlify.app/)
- 
-[ViewProjects](https://projectstorage.netlify.app/?)
- 
-## [Certificates :](https://www.linkedin.com/in/shrinidhi-bm/details/certifications/)
- 
-[View Certificates]https://www.linkedin.com/in/shrinidhi-bm/details/certifications/)
  
 ## GitHub Works
  
