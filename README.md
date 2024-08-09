@@ -3,7 +3,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shrinidhibm&label=Profile%20views&color=0e75b6&style=flat" alt="Shrinidhibm" /> </p>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SujanPS-blue)](https://www.linkedin.com/in/shrinidhi-bm/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shrinidhibm-blue)](https://www.linkedin.com/in/shrinidhi-bm/)
 [![Email](https://img.shields.io/badge/Email-sujanmayra6362%40gmail.com-blue)](mailto:2002shrinidhirao@gmail.com)
  
 ## Skills
@@ -63,9 +63,9 @@ Mar 23 - May 23
  
 [ViewProjects](https://projectstorage.netlify.app/?)
  
-## [Certificates :](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
+## [Certificates :](https://www.linkedin.com/in/shrinidhi-bm/details/certifications/)
  
-[View Certificates](https://www.https://www.linkedin.com/in/shrinidhi-bm/details/certifications/)
+[View Certificates]https://www.linkedin.com/in/shrinidhi-bm/details/certifications/)
  
 ## GitHub Works
  
