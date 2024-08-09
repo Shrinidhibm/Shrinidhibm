@@ -65,7 +65,7 @@ Mar 23 - May 23
  
 ## [Certificates :](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
  
-[View Certificates](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
+[View Certificates](https://www.https://www.linkedin.com/in/shrinidhi-bm/details/certifications/)
  
 ## GitHub Works
  
